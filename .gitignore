@@ -1,0 +1,16 @@
+*.classpath  
+*.project  
+.settings  
+.project  
+.target  
+.classpath  
+**/.settings  
+**/.classpath  
+**/.eclipse  
+**/target/  
+target/  
+.git/
+.metadata/  
+RemoteSystemsTempFiles/  
+Servers/  
+.svn
